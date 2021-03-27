@@ -50,15 +50,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-<<<<<<< HEAD
   },
   "proxy": "http://127.0.0.1:4000"
-=======
-<<<<<<< HEAD
-  },
-  "proxy": "http://127.0.0.1:4000"
-=======
-  }
->>>>>>> 06cf173ef66b561ea6e447f7ec0645ca07e4b5b0
->>>>>>> a3ff66348c04a4623f8f2c7940481a0b0e16598a
 }
