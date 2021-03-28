@@ -2,11 +2,8 @@
 
 > Complete E-commerce site built with Node.js, React, Redux, Express, MongoDB
 
-More about this project and course on Udemy. Course Name: [MERN Stack Full Ecommerce Site - Using React, Redux, Node.j](https://www.udemy.com/course/3678044)
+More about this project and course on Udemy. Course Name
 
-### Env Variables
-
-Add your config variables values in the config.env file in backend/config folder as shown in the course.
 
 ### Install Dependencies (Frontend)
 
